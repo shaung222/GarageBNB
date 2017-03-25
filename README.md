@@ -1,0 +1,2 @@
+# GarageBNB
+Garage sharing site
